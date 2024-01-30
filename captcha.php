@@ -1,6 +1,6 @@
 <?php
 
-function checkCaptcha($url = "https://captcheck.netsyms.com/captcheck.min.js")
+function checkCaptcha($url = "https://captcheck.netsyms.com/api.php")
 {
 	if (empty($_POST['captcheck_session_code']))
 		return "";

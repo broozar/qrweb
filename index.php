@@ -89,7 +89,7 @@ require("captcha.php");
         }
 
 	</style>
-	<script src="https://vps.trisymphony.com/captcheck/captcheck.js"></script>
+	<script src="https://captcheck.netsyms.com/captcheck.min.js"></script>
 </head>
 <body>
 <div id="content">
